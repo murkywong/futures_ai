@@ -1789,6 +1789,47 @@
       "https://finance.sina.com.cn/money/future/roll/2026-11-06/doc-inixuqhs8271164.shtml",
       "https://futures.cngold.org/c/2026-11-12/c10875033.html",
       "https://news.10jqka.com.cn/20261111/c681701737.shtml"
-    ]
+    ],
+    "来源索引": {
+      "铁矿与钢材": [
+        "https://tks.mysteel.com/datas/a/26111308/C37EA809A94D36E8.html",
+        "https://wap.sasac.gov.cn/n2588025/n2588124/c36181729/content.html",
+        "https://cj.sina.com.cn/articles/view/2299163722/890a744a00102hr40"
+      ],
+      "双焦": [
+        "https://cj.sina.com.cn/articles/view/5115326071/130e5ae77020034dfu",
+        "https://finance.sina.com.cn/money/future/indu/2026-11-11/doc-iniykkpz2277902.shtml",
+        "https://news.mysteel.com/a/26111215/35F684A8BF7548DE.html"
+      ],
+      "有色金属": [
+        "https://youse.mysteel.com/a/26111315/2265F7F7A3D82402.html",
+        "https://news-pro.smm.cn/article/4TKVESNOUTPNDSKGBBP7NWFTV4VZPKROT6H3F7A"
+      ],
+      "能源化工": [
+        "https://www.reuters.com/business/energy/world-oil-market-is-returning-surplus-gulf-exports-recover-faster-than-demand-iea-says-2026-11-13/",
+        "https://futures.cngold.org/c/2026-11-10/c10869362.html",
+        "https://news.10jqka.com.cn/20261111/c681701737.shtml",
+        "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqi1319130.shtml",
+        "https://futures.cngold.org/c/2026-11-12/c10875033.html"
+      ],
+      "农产品": [
+        "https://goodsfu.10jqka.com.cn/20261110/c681643826.shtml",
+        "https://www.100ppi.com/news/detail-20261111-6480577.html",
+        "https://m.jrj.com.cn/madapter/24h/2026/11/13090659125529.shtml",
+        "https://www.cotway.net/",
+        "https://www.mysteel.com"
+      ],
+      "新能源": [
+        "https://nekomorning.github.io/lithium-dashboard/index.html",
+        "https://finance.sina.com.cn/money/future/fmnews/2026-11-09/doc-iniyazcy6387647.shtml",
+        "https://finance.sina.com.cn/money/future/fmnews/2026-11-11/doc-iniyipkf1979945.shtml"
+      ],
+      "金融": [
+        "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+        "https://www.reuters.com/business/finance/ai-rockets-top-worries-about-financial-system-latest-fed-survey-2026-11-13/",
+        "https://yield.chinabond.com.cn/cbweb-czb-web/czb/moreInfo?locale=cn_ZH&nameType=1",
+        "https://cn.investing.com/indices/csi300-historical-data"
+      ]
+    }
   }
 }
